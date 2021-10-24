@@ -1,0 +1,2 @@
+Para criar a regressao irei utilizar varias bibliotecas
+como a matplotlib entre outras.
